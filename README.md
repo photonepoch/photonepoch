@@ -1,5 +1,5 @@
 # Здраствуйте, меня зовут Анатолий
-Я системный администратор и начинающий программист 1С
+# Я системный администратор и начинающий программист 1С
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=photonepoch&show_icons=true&count_private=true"><img
@@ -25,6 +25,9 @@
 *   PHP, jQuery, Bootstrap
 * 	Python 
 *   GitHub/GitLab
+
+### Open-Source
+* OSINT-RUSSIA.RU Team - Сайт посвещенный разведке на основе открытых данных
 
 ### Мои проекты
 
