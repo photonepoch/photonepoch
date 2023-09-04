@@ -9,25 +9,16 @@
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=photonepoch&layout=compact"/></a>
 </p>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/photonepoch/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-</p>
-
 ## 🛠 Стех технологий
-*	1C Предприятие 8.3
+*	 1C Предприятие 8.3
 *   .NET (Xamarin, Desktop)
 *   MySQL, MariaDB, MongoDB
 *   PHP, jQuery, Bootstrap
-* 	Python 
+* 	 Python 
 *   GitHub/GitLab
 
 ### Open-Source
-* OSINT-RUSSIA.RU Team - Сайт посвещенный разведке на основе открытых данных
+*   OSINT-RUSSIA.RU Team - Сайт посвещенный разведке на основе открытых данных
 
 ### Мои проекты
 
