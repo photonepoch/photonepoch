@@ -1,5 +1,5 @@
 # Здраствуйте, меня зовут Анатолий
-# Я системный администратор и начинающий программист 1С
+# Я системный администратор и специалист по ИБ
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=photonepoch&show_icons=true&count_private=true"><img
@@ -9,20 +9,9 @@
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=photonepoch&layout=compact"/></a>
 </p>
 
-## 🛠 Стех технологий
-*	 1C Предприятие 8.3
-*   .NET (Xamarin, Desktop)
-*   MySQL, MariaDB, MongoDB
-*   PHP, jQuery, Bootstrap
-* 	 Python 
-*   GitHub/GitLab
 
 ### Open-Source
 *   OSINT-RUSSIA.RU Team - Сайт посвещенный разведке на основе открытых данных
-
-### Мои проекты
-
-*   [1Ccvfiles](https://github.com/photonepoch/1Ccvfiles) - Различные конфигурации 1С для резюме
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/photonepoch/github-profile-views-counter">
